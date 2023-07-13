@@ -9,3 +9,4 @@ def strcounter(s: str):
 
 
 strcounter('Hello world!!')
+strcounter('Hi, I am Tohio15')
